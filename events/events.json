@@ -1,0 +1,327 @@
+{
+  "schemaVersion": 1,
+  "events": [
+    {
+      "event_id": "pokemon-pikachu-2026",
+      "title": "Pikachu Edition",
+      "description": "Selesaikan semua misi buat buka skin Pikachu 12 pad. Kejar listrik Pikachu dan sambar semua misinya.",
+      "banner": "pokemon-pikachu-2026.png",
+      "skin_id": "pokemon-pikachu",
+      "start_at": "2026-10-28T00:00:00+07:00",
+      "end_at": "2027-01-31T23:59:59+07:00",
+      "quests": [
+        {
+          "quest_id": "pika26-hits",
+          "title": "Thunderbolt!",
+          "description": "Pukul pad 250 kali.",
+          "type": "PAD_HITS",
+          "target_value": 250
+        },
+        {
+          "quest_id": "pika26-sess",
+          "title": "Pikachu Minta Lagi",
+          "description": "Buka app di 3 sesi berbeda.",
+          "type": "SESSIONS",
+          "target_value": 3
+        },
+        {
+          "quest_id": "pika26-rec",
+          "title": "Rekam Petirmu",
+          "description": "Simpan 1 rekaman permainanmu.",
+          "type": "RECORDINGS",
+          "target_value": 1
+        },
+        {
+          "quest_id": "pika26-preset",
+          "title": "Suara Listrik",
+          "description": "Simpan 2 suara ke pad.",
+          "type": "PRESETS_SAVED",
+          "target_value": 2
+        },
+        {
+          "quest_id": "pika26-days",
+          "title": "Pikachu Rajin",
+          "description": "Main di 3 hari berbeda.",
+          "type": "ACTIVE_DAYS",
+          "target_value": 3
+        }
+      ]
+    },
+    {
+      "event_id": "pokemon-bulbasaur-2026",
+      "title": "Bulbasaur Edition",
+      "description": "Selesaikan semua misi buat buka skin Bulbasaur 12 pad. Tumbuhkan kebun suaramu bareng Bulbasaur.",
+      "banner": "pokemon-bulbasaur-2026.png",
+      "skin_id": "pokemon-bulbasaur",
+      "start_at": "2026-10-28T00:00:00+07:00",
+      "end_at": "2027-01-31T23:59:59+07:00",
+      "quests": [
+        {
+          "quest_id": "bulb26-hits",
+          "title": "Vine Whip",
+          "description": "Pukul pad 300 kali.",
+          "type": "PAD_HITS",
+          "target_value": 300
+        },
+        {
+          "quest_id": "bulb26-sess",
+          "title": "Tunas Baru",
+          "description": "Buka app di 3 sesi berbeda.",
+          "type": "SESSIONS",
+          "target_value": 3
+        },
+        {
+          "quest_id": "bulb26-rec",
+          "title": "Rekam Taman",
+          "description": "Simpan 1 rekaman permainanmu.",
+          "type": "RECORDINGS",
+          "target_value": 1
+        },
+        {
+          "quest_id": "bulb26-preset",
+          "title": "Benih Suara",
+          "description": "Simpan 2 suara ke pad.",
+          "type": "PRESETS_SAVED",
+          "target_value": 2
+        },
+        {
+          "quest_id": "bulb26-days",
+          "title": "Siram Tiap Hari",
+          "description": "Main di 4 hari berbeda.",
+          "type": "ACTIVE_DAYS",
+          "target_value": 4
+        }
+      ]
+    },
+    {
+      "event_id": "pokemon-charmander-2026",
+      "title": "Charmander Edition",
+      "description": "Selesaikan semua misi buat buka skin Charmander 12 pad. Nyalakan api semangatmu bareng Charmander.",
+      "banner": "pokemon-charmander-2026.png",
+      "skin_id": "pokemon-charmander",
+      "start_at": "2026-10-28T00:00:00+07:00",
+      "end_at": "2027-01-31T23:59:59+07:00",
+      "quests": [
+        {
+          "quest_id": "char26-hits",
+          "title": "Ember",
+          "description": "Pukul pad 350 kali.",
+          "type": "PAD_HITS",
+          "target_value": 350
+        },
+        {
+          "quest_id": "char26-sess",
+          "title": "Api Jangan Padam",
+          "description": "Buka app di 4 sesi berbeda.",
+          "type": "SESSIONS",
+          "target_value": 4
+        },
+        {
+          "quest_id": "char26-rec",
+          "title": "Rekam Nyala Api",
+          "description": "Simpan 1 rekaman permainanmu.",
+          "type": "RECORDINGS",
+          "target_value": 1
+        },
+        {
+          "quest_id": "char26-preset",
+          "title": "Bara Suara",
+          "description": "Simpan 3 suara ke pad.",
+          "type": "PRESETS_SAVED",
+          "target_value": 3
+        },
+        {
+          "quest_id": "char26-days",
+          "title": "Ekor Menyala",
+          "description": "Main di 4 hari berbeda.",
+          "type": "ACTIVE_DAYS",
+          "target_value": 4
+        }
+      ]
+    },
+    {
+      "event_id": "pokemon-squirtle-2026",
+      "title": "Squirtle Edition",
+      "description": "Selesaikan semua misi buat buka skin Squirtle 12 pad. Siap nyemprot ritme bareng Squirtle Squad.",
+      "banner": "pokemon-squirtle-2026.png",
+      "skin_id": "pokemon-squirtle",
+      "start_at": "2026-10-28T00:00:00+07:00",
+      "end_at": "2027-01-31T23:59:59+07:00",
+      "quests": [
+        {
+          "quest_id": "squi26-hits",
+          "title": "Water Gun",
+          "description": "Pukul pad 400 kali.",
+          "type": "PAD_HITS",
+          "target_value": 400
+        },
+        {
+          "quest_id": "squi26-sess",
+          "title": "Squirtle Squad",
+          "description": "Buka app di 4 sesi berbeda.",
+          "type": "SESSIONS",
+          "target_value": 4
+        },
+        {
+          "quest_id": "squi26-rec",
+          "title": "Rekam Ombak",
+          "description": "Simpan 2 rekaman permainanmu.",
+          "type": "RECORDINGS",
+          "target_value": 2
+        },
+        {
+          "quest_id": "squi26-preset",
+          "title": "Tetes Suara",
+          "description": "Simpan 3 suara ke pad.",
+          "type": "PRESETS_SAVED",
+          "target_value": 3
+        },
+        {
+          "quest_id": "squi26-days",
+          "title": "Berenang Rutin",
+          "description": "Main di 5 hari berbeda.",
+          "type": "ACTIVE_DAYS",
+          "target_value": 5
+        }
+      ]
+    },
+    {
+      "event_id": "pokemon-psyduck-2026",
+      "title": "Psyduck Edition",
+      "description": "Selesaikan semua misi buat buka skin Psyduck 12 pad. Pusing? Tenang, ada Psyduck yang lebih pusing lagi.",
+      "banner": "pokemon-psyduck-2026.png",
+      "skin_id": "pokemon-psyduck",
+      "start_at": "2026-10-28T00:00:00+07:00",
+      "end_at": "2027-01-31T23:59:59+07:00",
+      "quests": [
+        {
+          "quest_id": "psyd26-hits",
+          "title": "Pusing Tujuh Keliling",
+          "description": "Pukul pad 450 kali.",
+          "type": "PAD_HITS",
+          "target_value": 450
+        },
+        {
+          "quest_id": "psyd26-sess",
+          "title": "Lupa Jalan Pulang",
+          "description": "Buka app di 5 sesi berbeda.",
+          "type": "SESSIONS",
+          "target_value": 5
+        },
+        {
+          "quest_id": "psyd26-rec",
+          "title": "Rekam Sakit Kepala",
+          "description": "Simpan 2 rekaman permainanmu.",
+          "type": "RECORDINGS",
+          "target_value": 2
+        },
+        {
+          "quest_id": "psyd26-preset",
+          "title": "Koleksi Bebek",
+          "description": "Simpan 3 suara ke pad.",
+          "type": "PRESETS_SAVED",
+          "target_value": 3
+        },
+        {
+          "quest_id": "psyd26-days",
+          "title": "Kok Main Lagi?",
+          "description": "Main di 5 hari berbeda.",
+          "type": "ACTIVE_DAYS",
+          "target_value": 5
+        }
+      ]
+    },
+    {
+      "event_id": "pokemon-snorlax-2026",
+      "title": "Snorlax Edition",
+      "description": "Selesaikan semua misi buat buka skin Snorlax 12 pad. Main santai, makan, tidur... lalu main lagi.",
+      "banner": "pokemon-snorlax-2026.png",
+      "skin_id": "pokemon-snorlax",
+      "start_at": "2026-10-28T00:00:00+07:00",
+      "end_at": "2027-01-31T23:59:59+07:00",
+      "quests": [
+        {
+          "quest_id": "snor26-hits",
+          "title": "Body Slam",
+          "description": "Pukul pad 600 kali.",
+          "type": "PAD_HITS",
+          "target_value": 600
+        },
+        {
+          "quest_id": "snor26-sess",
+          "title": "Bangun Sebentar",
+          "description": "Buka app di 5 sesi berbeda.",
+          "type": "SESSIONS",
+          "target_value": 5
+        },
+        {
+          "quest_id": "snor26-rec",
+          "title": "Rekam Ngorok",
+          "description": "Simpan 2 rekaman permainanmu.",
+          "type": "RECORDINGS",
+          "target_value": 2
+        },
+        {
+          "quest_id": "snor26-preset",
+          "title": "Piknik Suara",
+          "description": "Simpan 4 suara ke pad.",
+          "type": "PRESETS_SAVED",
+          "target_value": 4
+        },
+        {
+          "quest_id": "snor26-days",
+          "title": "Rutinitas Tidur Siang",
+          "description": "Main di 6 hari berbeda.",
+          "type": "ACTIVE_DAYS",
+          "target_value": 6
+        }
+      ]
+    },
+    {
+      "event_id": "pokemon-mewtwo-2026",
+      "title": "Mewtwo Edition",
+      "description": "Selesaikan semua misi buat buka skin Mewtwo 12 pad. Tantangan legendaris untuk drummer pilihan.",
+      "banner": "pokemon-mewtwo-2026.png",
+      "skin_id": "pokemon-mewtwo",
+      "start_at": "2026-10-28T00:00:00+07:00",
+      "end_at": "2027-01-31T23:59:59+07:00",
+      "quests": [
+        {
+          "quest_id": "mewt26-hits",
+          "title": "Psystrike",
+          "description": "Pukul pad 1000 kali.",
+          "type": "PAD_HITS",
+          "target_value": 1000
+        },
+        {
+          "quest_id": "mewt26-sess",
+          "title": "Pikiran Terhubung",
+          "description": "Buka app di 7 sesi berbeda.",
+          "type": "SESSIONS",
+          "target_value": 7
+        },
+        {
+          "quest_id": "mewt26-rec",
+          "title": "Rekam Kekuatan",
+          "description": "Simpan 3 rekaman permainanmu.",
+          "type": "RECORDINGS",
+          "target_value": 3
+        },
+        {
+          "quest_id": "mewt26-preset",
+          "title": "Koleksi Legendaris",
+          "description": "Simpan 5 suara ke pad.",
+          "type": "PRESETS_SAVED",
+          "target_value": 5
+        },
+        {
+          "quest_id": "mewt26-days",
+          "title": "Latihan di Laboratorium",
+          "description": "Main di 7 hari berbeda.",
+          "type": "ACTIVE_DAYS",
+          "target_value": 7
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 1,
+  "repo": "dtx-skins",
+  "updated": "2026-10-28",
+  "skins": [
+    {
+      "id": "skin-01",
+      "name": "Yamaha DTX-Multi 12",
+      "version": "1.6",
+      "author": "DTX Skin Project",
+      "padMin": 12,
+      "padMax": 12,
+      "path": "skins/skin-01/",
+      "files": {
+        "skin.json": {
+          "sha256": "26eb574efbe5a632fe6c8245ee86de4cfdd968f7b055e9e4319e597e60b558b3",
+          "size": 12246
+        },
+        "skin.svg": {
+          "sha256": "d2e71789de74c19a65d4c2737b04e82e0d49813f274cde71d5e93fe226c22814",
+          "size": 38890
+        },
+        "preview.svg": {
+          "sha256": "1dba47ce33e0c0020bbad1dd44abf92472455a60f291b78b032fa442a7e0d862",
+          "size": 64791
+        }
+      }
+    },
+    {
+      "id": "skin-02",
+      "name": "Ashley DME-705",
+      "version": "3.1",
+      "author": "DTX Skin Project",
+      "padMin": 9,
+      "padMax": 9,
+      "path": "skins/skin-02/",
+      "files": {
+        "skin.json": {
+          "sha256": "3b51bb4308dd31e3b841fad9daeeed534360e9d8b4542d0750fd8c7a689f29a4",
+          "size": 10966
+        },
+        "skin.svg": {
+          "sha256": "cdf9403f8dc57b868ee444076aaf99811286c170de41b0ec6d2744ca981f9f2d",
+          "size": 81222
+        },
+        "preview.svg": {
+          "sha256": "d97080e31d3cf4963f2d1c1cc51a5c8ae056f250b45d6056b0a73f611b800ba8",
+          "size": 85837
+        }
+      }
+    },
+    {
+      "id": "skin-03",
+      "name": "Yamaha DTX-Multi 12 White Carbon",
+      "version": "1.6",
+      "author": "DTX Skin Project",
+      "padMin": 12,
+      "padMax": 12,
+      "path": "skins/skin-03/",
+      "files": {
+        "skin.json": {
+          "sha256": "ed45315af511cdabc64e0a91b84bc0c585ed7783af5aed495e2d3a75861eebb6",
+          "size": 12264
+        },
+        "skin.svg": {
+          "sha256": "0e8178234f3ffaf40cb39d795fa0cdc7b0adafea41fecc495c141e5b71790adf",
+          "size": 121587
+        },
+        "preview.svg": {
+          "sha256": "463dc430f1076d440984cd69be8ec3fb4cbb561635f524eafdabd1d8f0684c59",
+          "size": 128837
+        }
+      }
+    },
+    {
+      "id": "skin-04",
+      "name": "Yamaha DTX-Multi 12 Red Carbon",
+      "version": "1.1",
+      "author": "DTX Skin Project",
+      "padMin": 12,
+      "padMax": 12,
+      "path": "skins/skin-04/",
+      "files": {
+        "skin.json": {
+          "sha256": "4b3179e9a05ca31a6f73e4595ee1af042532f1ede2d231eaa5139c91a7fd4e13",
+          "size": 12262
+        },
+        "skin.svg": {
+          "sha256": "be6923f28f389a30ba9dea084d4dc64028ce4096c847cfa8db949989dc42ba8e",
+          "size": 51123
+        },
+        "preview.svg": {
+          "sha256": "b9f3948528c22be16ee8a62f6d226c4b538c14d6b8280d2a8fdb76c6f7310fe1",
+          "size": 58373
+        }
+      }
+    },
+    {
+      "id": "skin-05",
+      "name": "Yamaha DTX-Multi 12 Teal Carbon",
+      "version": "1.1",
+      "author": "DTX Skin Project",
+      "padMin": 12,
+      "padMax": 12,
+      "path": "skins/skin-05/",
+      "files": {
+        "skin.json": {
+          "sha256": "1efa641c5173766f3cb8216644e8cd52862d2635d0fd2980e6c8849aab315ca7",
+          "size": 12263
+        },
+        "skin.svg": {
+          "sha256": "4be91817ea4cd8611600b12308294512ea0ca64946ce8930e07224c8daf2810f",
+          "size": 51130
+        },
+        "preview.svg": {
+          "sha256": "e7b025be1aada4256bd50f0d90cf98dfc8ac4f3c8443c6e6763b3846d8ec1d70",
+          "size": 58380
+        }
+      }
+    },
+    {
+      "id": "skin-06",
+      "name": "Yamaha DTX-Multi 12 Black Carbon",
+      "version": "1.1",
+      "author": "DTX Skin Project",
+      "padMin": 12,
+      "padMax": 12,
+      "path": "skins/skin-06/",
+      "files": {
+        "skin.json": {
+          "sha256": "89082893a3265d79a684e1eb8c546d29122a4a721c86aaaa5e25fc66712fe442",
+          "size": 12264
+        },
+        "skin.svg": {
+          "sha256": "c47dcff164b5a140c5e5bd17942599fa808efebd0efc3fb28f2ef8f108e76d28",
+          "size": 51329
+        },
+        "preview.svg": {
+          "sha256": "c2cf65557b7a73da2c877944af98daf32228e49b4e18c26d27dbfbc357b13beb",
+          "size": 58579
+        }
+      }
+    },
+    {
+      "id": "skin-07",
+      "name": "Yamaha DTX-Multi 12 Purple Carbon",
+      "version": "1.0",
+      "author": "DTX Skin Project",
+      "padMin": 12,
+      "padMax": 12,
+      "path": "skins/skin-07/",
+      "files": {
+        "skin.json": {
+          "sha256": "a8092878ed7447142d081247a3ce3dc01d42daaec544a500a4091228856fb9d7",
+          "size": 12265
+        },
+        "skin.svg": {
+          "sha256": "9e35f8343760d9be523ff4ff98888aaff33463fd34c64b3fc1144bb7480afbdc",
+          "size": 51334
+        },
+        "preview.svg": {
+          "sha256": "3d171fa763e2ae65c995f7b9ccad37b8f8349ddffc97150dae3d2afab1ac1066",
+          "size": 58584
+        }
+      }
+    },
+    {
+      "id": "skin-08",
+      "name": "Yamaha DTX-Multi 12 Black Original",
+      "version": "1.0",
+      "author": "DTX Skin Project",
+      "padMin": 12,
+      "padMax": 12,
+      "path": "skins/skin-08/",
+      "files": {
+        "skin.json": {
+          "sha256": "090e01715f4661099819cad53223082d769f10e789354682b45aeda403bd7e6b",
+          "size": 12266
+        },
+        "skin.svg": {
+          "sha256": "11143bc63c142cc71626dc0b14aa6037842927a69e9623687602f3cec4317cdd",
+          "size": 40657
+        },
+        "preview.svg": {
+          "sha256": "d450deceade6649de9320371f1ee604ee83143b4ea836fd81a1a6b81c3496c6d",
+          "size": 47919
+        }
+      }
+    },
+    {
+      "id": "skin-09",
+      "name": "Yamaha DTX-Multi 12 Tall Pad",
+      "version": "1.2",
+      "author": "DTX Skin Project",
+      "padMin": 12,
+      "padMax": 12,
+      "path": "skins/skin-09/",
+      "files": {
+        "skin.json": {
+          "sha256": "8e51f36af0b6c3480fb2652b28b180d02e3a9c3bbd6850a457361532ab182913",
+          "size": 12255
+        },
+        "skin.svg": {
+          "sha256": "3b2c64558c9ff4cdcd0ac358fc63b1436ed0ab1e3aff131bcec04e0509b2be96",
+          "size": 38856
+        },
+        "preview.svg": {
+          "sha256": "8a9f35623964270126d8785b63a1e004fe91381d67d9208490b994b5350a9f77",
+          "size": 44507
+        }
+      }
+    },
+    {
+      "id": "skin-10",
+      "name": "Yamaha DTX-Multi 12 Black Original Tall Pad",
+      "version": "1.0",
+      "author": "DTX Skin Project",
+      "padMin": 12,
+      "padMax": 12,
+      "path": "skins/skin-10/",
+      "files": {
+        "skin.json": {
+          "sha256": "66d86fa98e05781c836f9fcd6d7b555fd0defeba7e6bc8b6c25627ce56903e0e",
+          "size": 12275
+        },
+        "skin.svg": {
+          "sha256": "460488618473f72052ebec9eb802f75ed27305b5f6daee9edbf6e554b194a345",
+          "size": 40954
+        },
+        "preview.svg": {
+          "sha256": "0b351a6dbe8e33a308b37e713cc7afc8a08174d06cd1560715ec87aa0595f561",
+          "size": 46640
+        }
+      }
+    },
+    {
+      "id": "skin-11",
+      "name": "Ashley DME-705 Tall Pad",
+      "version": "1.0",
+      "author": "DTX Skin Project",
+      "padMin": 9,
+      "padMax": 9,
+      "path": "skins/skin-11/",
+      "files": {
+        "skin.json": {
+          "sha256": "e71ba044897a34216ab847a85d60573b42114c17659ba6fab6879e40597c6e06",
+          "size": 10976
+        },
+        "skin.svg": {
+          "sha256": "54f26bbc9e749121b9ffd90d71e14355942d1c4072273ec9b1d9f37f1bf82f00",
+          "size": 98851
+        },
+        "preview.svg": {
+          "sha256": "8c215342bfd82fbfe8929f045fb2a92d54a6f4edce93917145436767b1eef6c9",
+          "size": 103466
+        }
+      }
+    },
+    {
+      "id": "pokemon-pikachu",
+      "name": "Pokémon Pikachu Edition",
+      "version": "1.0",
+      "author": "DTX Skin Project (art: Pokemon, (c) Nintendo / Creatures / GAME FREAK)",
+      "padMin": 12,
+      "padMax": 12,
+      "path": "skins/pokemon-pikachu/",
+      "files": {
+        "skin.json": {
+          "sha256": "05e7081b2140cbf3d627811f132c41c1c7091741c2118e1fd20a30a3c6f4de29",
+          "size": 12310
+        },
+        "skin.svg": {
+          "sha256": "af0629026952adcc5ef218bdd557a6f6be7674977aef279fabc7111096dc5e60",
+          "size": 128044
+        }
+      }
+    },
+    {
+      "id": "pokemon-bulbasaur",
+      "name": "Pokémon Bulbasaur Edition",
+      "version": "1.0",
+      "author": "DTX Skin Project (art: Pokemon, (c) Nintendo / Creatures / GAME FREAK)",
+      "padMin": 12,
+      "padMax": 12,
+      "path": "skins/pokemon-bulbasaur/",
+      "files": {
+        "skin.json": {
+          "sha256": "1bc4fc65a8315ec32a46075c31c418b9c1391f31cff2ee3b601bb405eb9cae3f",
+          "size": 12312
+        },
+        "skin.svg": {
+          "sha256": "8afb32a7858c08bf326bfd90e3d485914aa31291dbb177eb6afef9cb558395ef",
+          "size": 196550
+        }
+      }
+    },
+    {
+      "id": "pokemon-charmander",
+      "name": "Pokémon Charmander Edition",
+      "version": "1.0",
+      "author": "DTX Skin Project (art: Pokemon, (c) Nintendo / Creatures / GAME FREAK)",
+      "padMin": 12,
+      "padMax": 12,
+      "path": "skins/pokemon-charmander/",
+      "files": {
+        "skin.json": {
+          "sha256": "8f27aee18b1282ae71f36431b035b89ed0ea8075f53988915f47c0803151c9c1",
+          "size": 12313
+        },
+        "skin.svg": {
+          "sha256": "3cd8453810057c8456ad73de92967b59a84d49121391a1e23471e0d814d8f178",
+          "size": 196183
+        }
+      }
+    },
+    {
+      "id": "pokemon-squirtle",
+      "name": "Pokémon Squirtle Edition",
+      "version": "1.0",
+      "author": "DTX Skin Project (art: Pokemon, (c) Nintendo / Creatures / GAME FREAK)",
+      "padMin": 12,
+      "padMax": 12,
+      "path": "skins/pokemon-squirtle/",
+      "files": {
+        "skin.json": {
+          "sha256": "be9ef787a9360a04a5090bf078e282d52329acafa8374b6f2a315338a7273d98",
+          "size": 12311
+        },
+        "skin.svg": {
+          "sha256": "cd6bb320179d7b70cde59f9da9c885e1cefdc431a970e72d11537a890fe3ae10",
+          "size": 154447
+        }
+      }
+    },
+    {
+      "id": "pokemon-psyduck",
+      "name": "Pokémon Psyduck Edition",
+      "version": "1.0",
+      "author": "DTX Skin Project (art: Pokemon, (c) Nintendo / Creatures / GAME FREAK)",
+      "padMin": 12,
+      "padMax": 12,
+      "path": "skins/pokemon-psyduck/",
+      "files": {
+        "skin.json": {
+          "sha256": "99000a79897118f73c2d4f3d59db96016436ac2a47aa5587addcff8ab185965a",
+          "size": 12310
+        },
+        "skin.svg": {
+          "sha256": "736f9f5513e998f92480e4ecde6cd03c6aef4b8a4de64877e67a556a79276599",
+          "size": 100912
+        }
+      }
+    },
+    {
+      "id": "pokemon-snorlax",
+      "name": "Pokémon Snorlax Edition",
+      "version": "1.0",
+      "author": "DTX Skin Project (art: Pokemon, (c) Nintendo / Creatures / GAME FREAK)",
+      "padMin": 12,
+      "padMax": 12,
+      "path": "skins/pokemon-snorlax/",
+      "files": {
+        "skin.json": {
+          "sha256": "1b55b73d89a63cba08855505fc063b08a8b62f43ac2e53e773bf5b1495984acd",
+          "size": 12310
+        },
+        "skin.svg": {
+          "sha256": "8cc12efad278b7ab46ca8059e91c23ff5ed50c09149645c85a7aa2a7ab8928ec",
+          "size": 191128
+        }
+      }
+    },
+    {
+      "id": "pokemon-mewtwo",
+      "name": "Pokémon Mewtwo Edition",
+      "version": "1.0",
+      "author": "DTX Skin Project (art: Pokemon, (c) Nintendo / Creatures / GAME FREAK)",
+      "padMin": 12,
+      "padMax": 12,
+      "path": "skins/pokemon-mewtwo/",
+      "files": {
+        "skin.json": {
+          "sha256": "6efb627124e74d0009c2969535c96c8b067b143429b3d37bcd3c36ce5257f14e",
+          "size": 12309
+        },
+        "skin.svg": {
+          "sha256": "01ea08da3bcfb160d6e90b2e73b42178f78b9e94876b0efdba2dd6495559a5d7",
+          "size": 271195
+        }
+      }
+    }
+  ]
+}

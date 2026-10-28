@@ -1,0 +1,499 @@
+{
+  "schemaVersion": 1,
+  "name": "Ashley DME-705",
+  "version": "3.1",
+  "author": "DTX Skin Project",
+  "svg": "skin.svg",
+  "viewBox": "0 0 1108 976",
+  "layout": {
+    "padZone": "0 0 1108 730",
+    "panelZone": "0 730 1108 246"
+  },
+  "padSupport": {
+    "min": 9,
+    "max": 9
+  },
+  "controls": [
+    {
+      "id": "pad-1",
+      "type": "pad",
+      "index": 1,
+      "hit": "hit-pad-1",
+      "states": {
+        "normal": "pad-1-normal",
+        "active": "pad-1-active"
+      },
+      "trigger": "down"
+    },
+    {
+      "id": "pad-2",
+      "type": "pad",
+      "index": 2,
+      "hit": "hit-pad-2",
+      "states": {
+        "normal": "pad-2-normal",
+        "active": "pad-2-active"
+      },
+      "trigger": "down"
+    },
+    {
+      "id": "pad-3",
+      "type": "pad",
+      "index": 3,
+      "hit": "hit-pad-3",
+      "states": {
+        "normal": "pad-3-normal",
+        "active": "pad-3-active"
+      },
+      "trigger": "down"
+    },
+    {
+      "id": "pad-4",
+      "type": "pad",
+      "index": 4,
+      "hit": "hit-pad-4",
+      "states": {
+        "normal": "pad-4-normal",
+        "active": "pad-4-active"
+      },
+      "trigger": "down"
+    },
+    {
+      "id": "pad-5",
+      "type": "pad",
+      "index": 5,
+      "hit": "hit-pad-5",
+      "states": {
+        "normal": "pad-5-normal",
+        "active": "pad-5-active"
+      },
+      "trigger": "down"
+    },
+    {
+      "id": "pad-6",
+      "type": "pad",
+      "index": 6,
+      "hit": "hit-pad-6",
+      "states": {
+        "normal": "pad-6-normal",
+        "active": "pad-6-active"
+      },
+      "trigger": "down"
+    },
+    {
+      "id": "pad-7",
+      "type": "pad",
+      "index": 7,
+      "hit": "hit-pad-7",
+      "states": {
+        "normal": "pad-7-normal",
+        "active": "pad-7-active"
+      },
+      "trigger": "down"
+    },
+    {
+      "id": "pad-8",
+      "type": "pad",
+      "index": 8,
+      "hit": "hit-pad-8",
+      "states": {
+        "normal": "pad-8-normal",
+        "active": "pad-8-active"
+      },
+      "trigger": "down"
+    },
+    {
+      "id": "pad-9",
+      "type": "pad",
+      "index": 9,
+      "hit": "hit-pad-9",
+      "states": {
+        "normal": "pad-9-normal",
+        "active": "pad-9-active"
+      },
+      "trigger": "down"
+    },
+    {
+      "id": "btn-click",
+      "type": "button",
+      "hit": "hit-btn-click",
+      "states": {
+        "normal": "btn-click-normal",
+        "active": "btn-click-active"
+      },
+      "trigger": "tap"
+    },
+    {
+      "id": "btn-kit",
+      "type": "button",
+      "hit": "hit-btn-kit",
+      "states": {
+        "normal": "btn-kit-normal",
+        "active": "btn-kit-active"
+      },
+      "trigger": "tap"
+    },
+    {
+      "id": "btn-rec",
+      "type": "button",
+      "hit": "hit-btn-rec",
+      "states": {
+        "normal": "btn-rec-normal",
+        "active": "btn-rec-active"
+      },
+      "trigger": "tap"
+    },
+    {
+      "id": "btn-setup",
+      "type": "button",
+      "hit": "hit-btn-setup",
+      "states": {
+        "normal": "btn-setup-normal",
+        "active": "btn-setup-active"
+      },
+      "trigger": "tap"
+    },
+    {
+      "id": "btn-up",
+      "type": "button",
+      "hit": "hit-btn-up",
+      "states": {
+        "normal": "btn-up-normal",
+        "active": "btn-up-active"
+      },
+      "trigger": "tap"
+    },
+    {
+      "id": "btn-down",
+      "type": "button",
+      "hit": "hit-btn-down",
+      "states": {
+        "normal": "btn-down-normal",
+        "active": "btn-down-active"
+      },
+      "trigger": "tap"
+    },
+    {
+      "id": "btn-ok",
+      "type": "button",
+      "hit": "hit-btn-ok",
+      "states": {
+        "normal": "btn-ok-normal",
+        "active": "btn-ok-active"
+      },
+      "trigger": "tap"
+    },
+    {
+      "id": "btn-select",
+      "type": "button",
+      "hit": "hit-btn-select",
+      "states": {
+        "normal": "btn-select-normal",
+        "active": "btn-select-active"
+      },
+      "trigger": "tap"
+    },
+    {
+      "id": "btn-minus",
+      "type": "button",
+      "hit": "hit-btn-minus",
+      "states": {
+        "normal": "btn-minus-normal",
+        "active": "btn-minus-active"
+      },
+      "trigger": "tap"
+    },
+    {
+      "id": "btn-plus",
+      "type": "button",
+      "hit": "hit-btn-plus",
+      "states": {
+        "normal": "btn-plus-normal",
+        "active": "btn-plus-active"
+      },
+      "trigger": "tap"
+    },
+    {
+      "id": "btn-skin",
+      "type": "button",
+      "hit": "hit-btn-skin",
+      "states": {
+        "normal": "btn-skin-normal",
+        "active": "btn-skin-active"
+      },
+      "trigger": "tap"
+    },
+    {
+      "id": "btn-music",
+      "type": "button",
+      "hit": "hit-btn-music",
+      "states": {
+        "normal": "btn-music-normal",
+        "active": "btn-music-active"
+      },
+      "trigger": "tap"
+    },
+    {
+      "id": "vol-knob",
+      "type": "rotary",
+      "hit": "hit-vol-knob",
+      "track": "vol-track",
+      "handle": "vol-handle",
+      "angleMin": -135,
+      "angleMax": 135,
+      "valueRange": [
+        0,
+        1
+      ],
+      "defaultValue": 0.78,
+      "gesture": [
+        "circular",
+        "vertical-drag"
+      ]
+    },
+    {
+      "id": "slot-display",
+      "type": "display",
+      "lines": 2
+    }
+  ],
+  "mapping": {
+    "pad-1": {
+      "function": "sample.play",
+      "params": {
+        "pad": 1
+      },
+      "apkStatus": "existing",
+      "apkRef": "MainActivity.onPadDown(id)"
+    },
+    "pad-2": {
+      "function": "sample.play",
+      "params": {
+        "pad": 2
+      },
+      "apkStatus": "existing",
+      "apkRef": "MainActivity.onPadDown(id)"
+    },
+    "pad-3": {
+      "function": "sample.play",
+      "params": {
+        "pad": 3
+      },
+      "apkStatus": "existing",
+      "apkRef": "MainActivity.onPadDown(id)"
+    },
+    "pad-4": {
+      "function": "sample.play",
+      "params": {
+        "pad": 4
+      },
+      "apkStatus": "existing",
+      "apkRef": "MainActivity.onPadDown(id)"
+    },
+    "pad-5": {
+      "function": "sample.play",
+      "params": {
+        "pad": 5
+      },
+      "apkStatus": "existing",
+      "apkRef": "MainActivity.onPadDown(id)"
+    },
+    "pad-6": {
+      "function": "sample.play",
+      "params": {
+        "pad": 6
+      },
+      "apkStatus": "existing",
+      "apkRef": "MainActivity.onPadDown(id)"
+    },
+    "pad-7": {
+      "function": "sample.play",
+      "params": {
+        "pad": 7
+      },
+      "apkStatus": "existing",
+      "apkRef": "MainActivity.onPadDown(id)"
+    },
+    "pad-8": {
+      "function": "sample.play",
+      "params": {
+        "pad": 8
+      },
+      "apkStatus": "existing",
+      "apkRef": "MainActivity.onPadDown(id)"
+    },
+    "pad-9": {
+      "function": "sample.play",
+      "params": {
+        "pad": 9
+      },
+      "apkStatus": "existing",
+      "apkRef": "MainActivity.onPadDown(id)"
+    },
+    "btn-click": {
+      "function": "music.toggle",
+      "apkStatus": "existing",
+      "apkRef": "Tombol CLICK -> play/stop lagu"
+    },
+    "btn-kit": {
+      "function": "preset.menu",
+      "apkStatus": "existing",
+      "apkRef": "Tombol KIT -> panel preset ASLI APK"
+    },
+    "btn-rec": {
+      "function": "record.toggle",
+      "apkStatus": "existing",
+      "apkRef": "Tombol REC -> rekam audio"
+    },
+    "btn-setup": {
+      "function": "padSettings.open",
+      "apkStatus": "existing",
+      "apkRef": "Tombol SETUP -> pengaturan pad"
+    },
+    "btn-up": {
+      "function": "preset.prev",
+      "apkStatus": "existing",
+      "apkRef": "Tombol ▲ -> preset sebelumnya"
+    },
+    "btn-down": {
+      "function": "preset.next",
+      "apkStatus": "existing",
+      "apkRef": "Tombol ▼ -> preset berikutnya"
+    },
+    "btn-ok": {
+      "function": "sound.set",
+      "apkStatus": "existing",
+      "apkRef": "Tombol OK -> SET SUARA pad terakhir yang diketuk"
+    },
+    "btn-select": {
+      "function": "file.load",
+      "apkStatus": "existing",
+      "apkRef": "Tombol SELECT -> muat file"
+    },
+    "btn-minus": {
+      "function": "music.seekBack",
+      "apkStatus": "existing",
+      "apkRef": "Tombol − -> mundur 5 detik"
+    },
+    "btn-plus": {
+      "function": "music.seekForward",
+      "apkStatus": "existing",
+      "apkRef": "Tombol + -> maju 5 detik"
+    },
+    "btn-skin": {
+      "function": "skin.pick",
+      "apkStatus": "existing",
+      "apkRef": "Tombol POWER -> pemilih skin"
+    },
+    "btn-music": {
+      "function": "music.panel",
+      "apkStatus": "existing",
+      "apkRef": "Knob besar kanan (ditap) -> panel volume & musik ASLI APK"
+    },
+    "vol-knob": {
+      "function": "volume.kendang",
+      "apkStatus": "existing",
+      "apkRef": "MainActivity.onKendangVolumeChange(v: Float)"
+    },
+    "slot-display": {
+      "function": "display.preset",
+      "template": [
+        "KIT",
+        "P{preset:000}"
+      ],
+      "apkStatus": "wrap-existing",
+      "apkRef": "currentPreset (baris 1 = 'KIT', baris 2 = 'Pnnn')"
+    }
+  },
+  "unsupportedInReference": [
+    {
+      "id": "deco-indicators",
+      "kind": "decorative",
+      "label": "Label TRIGGER / FOOTSWITCH",
+      "reason": "Teks label hardware; 9 lamp di sebelahnya kini menjadi indikator pad (led-pad-N)"
+    },
+    {
+      "id": "deco-brand",
+      "kind": "decorative",
+      "label": "ASHLEY DME-705 Percussion Pad",
+      "reason": "Logo/nama produk"
+    },
+    {
+      "id": "deco-lcd-bezel",
+      "kind": "decorative",
+      "label": "Bezel LCD",
+      "reason": "Bingkai layar, tanpa fungsi"
+    },
+    {
+      "kind": "apk-function",
+      "function": "file.export",
+      "label": "Ekspor",
+      "reason": "Gambar referensi tidak punya tombol tersisa untuk fungsi ini"
+    },
+    {
+      "kind": "apk-function",
+      "function": "theme.open",
+      "label": "Tema warna",
+      "reason": "Gambar referensi tidak punya tombol tersisa untuk fungsi ini"
+    },
+    {
+      "kind": "apk-function",
+      "function": "screenrecord.toggle",
+      "label": "Rekam layar",
+      "reason": "Gambar referensi tidak punya tombol tersisa untuk fungsi ini"
+    },
+    {
+      "id": "deco-lcd-tabs",
+      "kind": "decorative",
+      "label": "HOME/WAVE/LOOP/EFFECT/ADV",
+      "reason": "Tab menu LCD hardware tanpa padanan fungsi di APK"
+    }
+  ],
+  "indicators": [
+    {
+      "id": "led-pad-1",
+      "pad": 1,
+      "on": "led-pad-1-on"
+    },
+    {
+      "id": "led-pad-2",
+      "pad": 2,
+      "on": "led-pad-2-on"
+    },
+    {
+      "id": "led-pad-3",
+      "pad": 3,
+      "on": "led-pad-3-on"
+    },
+    {
+      "id": "led-pad-4",
+      "pad": 4,
+      "on": "led-pad-4-on"
+    },
+    {
+      "id": "led-pad-5",
+      "pad": 5,
+      "on": "led-pad-5-on"
+    },
+    {
+      "id": "led-pad-6",
+      "pad": 6,
+      "on": "led-pad-6-on"
+    },
+    {
+      "id": "led-pad-7",
+      "pad": 7,
+      "on": "led-pad-7-on"
+    },
+    {
+      "id": "led-pad-8",
+      "pad": 8,
+      "on": "led-pad-8-on"
+    },
+    {
+      "id": "led-pad-9",
+      "pad": 9,
+      "on": "led-pad-9-on"
+    }
+  ]
+}
